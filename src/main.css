@@ -36,5 +36,7 @@ footer {
 }
 
 .calc-button:hover {
-  color: #FFC107;
+  background-color: #800F2F;
+  color: white;
+  border: 1px solid #800F2F;
 }
